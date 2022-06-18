@@ -1,7 +1,7 @@
 # Gra dogtrekkingowa
 <p>Aplikacja webowa do gry dogtrekkingowej napisana dla Studenckiego Koła Naukowego Sympatyków Zwierząt UPH.</p>
 <br />
-<p>Aby aplikacja uruchomiła się poprawnie, należy uzupełnić initializeApp (apiKey, authDomain itd.) w src/utils/firebase.tsx oraz apiKey w src/utils/imgur.tsx. Dodatkowo należy uzupełnić wszystkie brakujące node moduły, o które będzie domagać się npm podczas uruchamiania.</p>
+<p>Aby aplikacja uruchomiła się poprawnie, należy uzupełnić initializeApp (apiKey, authDomain itd.) w src/utils/firebase.tsx oraz apiKey w src/utils/imgur.tsx. Dodatkowo, należy uzupełnić wszystkie brakujące moduły <i>node</i>, o które będzie domagać się npm podczas uruchamiania.</p>
 
 <hr />
 
