@@ -1,5 +1,7 @@
 # Gra dogtrekkingowa
 <p>Aplikacja webowa do gry dogtrekkingowej napisana dla Studenckiego Koła Naukowego Sympatyków Zwierząt UPH.</p>
+<br />
+<p>Aby aplikacja uruchomiła się poprawnie, należy uzupełnić initializeApp (apiKey, authDomain itd.) w src/utils/firebase.tsx oraz apiKey w src/utils/imgur.tsx.</p>
 
 <hr />
 
@@ -10,6 +12,8 @@
   <li>Baza danych NoSQL Firestore</li>
   <li>Imgur API</li>
 </ul>
+
+<hr />
 
 <h1>Funkcjonalność</h1>
 <ul>
