@@ -7,7 +7,7 @@
 <ul>
   <li>Ionic React</li>
   <li>Firebase</li>
-  <li>Firestore Database</li>
+  <li>Baza danych NoSQL Firestore</li>
   <li>Imgur API</li>
 </ul>
 
@@ -19,9 +19,7 @@
   <li>Zadania podzielone na dwa etapy: zagadka odnośnie miejsca, w którym znajduje się kod, oraz polecenie wymagające potwierdzenia zdjęciem</li>
   <li>Prosty panel administracyjny pokazujący listę graczy zawierającą informacje m.in. o aktualnym zadaniu i ilości punktów</li>
   <li>Szczegóły gracza zawierające zdjęcia i możliwość ich zatwierdzenia lub odrzucenia</li>
-  <li>Firebase</li>
-  <li>Baza danych NoSQL Firestore</li>
-  <li>Imgur API do uploadu zdjęć, których linki i delete hashe są przechowywane w bazie danych</li>
+  <li>Upload zdjęć na serwery Imgur'a, których linki i delete hashe są przechowywane w bazie danych</li>
 </ul>
 
 <hr />
