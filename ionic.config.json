@@ -1,0 +1,7 @@
+{
+  "name": "gra-dogtrekkingowa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
