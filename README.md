@@ -15,7 +15,7 @@
 <ul>
   <li>Ciemny lub jasny motyw w zależności od ustawień przeglądarki (prefers-color-scheme)</li>
   <li>Autoryzacja przez konto Google lub anonimowa</li>
-  <li>Zmiana imienia i nazwiska (w sytuacji, gdy nazwa konta Google nie zawiera imienia i nazwiska)</li>
+  <li>Zmiana imienia i nazwiska</li>
   <li>Zadania podzielone na dwa etapy: zagadka odnośnie miejsca, w którym znajduje się kod, oraz polecenie wymagające potwierdzenia zdjęciem</li>
   <li>Prosty panel administracyjny pokazujący listę graczy zawierającą informacje m.in. o aktualnym zadaniu i ilości punktów</li>
   <li>Szczegóły gracza zawierające zdjęcia i możliwość ich zatwierdzenia lub odrzucenia</li>
