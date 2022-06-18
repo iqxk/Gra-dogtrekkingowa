@@ -36,7 +36,7 @@
 <p>---------- Zadanie: polecenie ----------</p>
 <img src="https://user-images.githubusercontent.com/107581764/174433981-533a5bec-e3e3-47ba-a9d0-de46af006346.png" />
 <p>---------- Zakończenie gry ----------</p>
-<img src="https://user-images.githubusercontent.com/107581764/174434079-945bd9a4-daba-433f-9360-63be3b096ed1.png" />
+<img src="https://user-images.githubusercontent.com/107581764/174434450-e9166c22-47f4-461c-a6d2-4922e1cc60b8.png" />
 <p>---------- Administrator: lista graczy ----------</p>
 <img src="https://user-images.githubusercontent.com/107581764/174434097-00a54cdc-f1e8-4269-9e1e-2224f9923be3.png" />
 <p>---------- Administrator: szczegóły gracza (zdjęcia przesuwa się przeciąganiem na boki) ----------</p>
